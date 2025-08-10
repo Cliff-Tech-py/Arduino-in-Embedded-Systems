@@ -87,5 +87,5 @@ You can simulate the circuit in **Tinkercad**:
 ---
 
 ## 📝 Author
-Developed by **[Your Name]**  
+Developed by Wycliff Muriuki  
 Licensed under the MIT License.
